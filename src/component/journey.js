@@ -17,7 +17,7 @@ const component = ({data}) => (<div className="journey">
 	<h3>Skills</h3>
 	<List element={Skill} data={data.skill} />
 
-	<h3>Language</h3>
+	<h3>Languages</h3>
 	<List element={Language} data={data.language} />
 
 	<h3>Hobbies</h3>
