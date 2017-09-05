@@ -9,6 +9,9 @@
 # production
 /build
 
+# pdf output
+resumé.pdf
+
 # misc
 .DS_Store
 .env.local
