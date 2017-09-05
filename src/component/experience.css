@@ -1,0 +1,20 @@
+.experience {
+	margin: 5mm 0;
+}
+
+.experience .header {
+	margin: 0 0 2mm 0;
+}
+
+.experience .description {
+	margin: 0 0 1mm 0;
+}
+
+.experience .company {
+	text-transform: uppercase;
+}
+
+.experience .company,
+.experience .position {
+	margin: 0;
+}

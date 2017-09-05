@@ -1,0 +1,20 @@
+.profile {
+	color: #333;
+	margin: 5mm;
+}
+
+.profile .name {
+	font-size: 12mm;
+	margin: 0 0 5mm 0;
+	border-bottom: 2px solid #ccc;
+	font-family: serif;
+}
+
+.profile .position {
+	font-size: 4mm;
+	color: #777;
+}
+
+.profile .email {
+	font-size: 16px;
+}

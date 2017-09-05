@@ -1,0 +1,10 @@
+.language h4,
+.language span {
+	margin: 0;
+	display: inline-block;
+}
+
+.language h4 {
+	padding: 0 2mm 0 0;
+	text-transform: uppercase;
+}

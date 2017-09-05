@@ -1,0 +1,8 @@
+.education h4,
+.education p {
+	margin: 0;
+}
+
+.education h4 {
+	text-transform: uppercase;
+}

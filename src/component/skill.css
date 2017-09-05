@@ -1,0 +1,12 @@
+.skill {
+	margin: 5mm 0;
+}
+
+.skill h4,
+.skill p {
+	margin: 0;
+}
+
+.skill h4 {
+	text-transform: uppercase;
+}

@@ -1,0 +1,13 @@
+.journey {
+	color: #333;
+	margin: 5mm;
+}
+
+.journey > h3 {
+	font-size: 5mm;
+	text-transform: uppercase;
+	border-bottom: 3px solid #333;
+	margin: 0 0 10mm 0;
+	font-family: serif;
+}
+

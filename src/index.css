@@ -1,0 +1,16 @@
+html, body {
+	width: 21cm;
+    min-height: 29.7cm;
+    background: #fefefe;
+}
+
+* {
+    box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+}
+
+body {
+	margin: 0;
+    padding: 5mm;
+	font-family: sans-serif;
+}

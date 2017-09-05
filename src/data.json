@@ -1,0 +1,74 @@
+{
+	"profile": {
+		"name": "Renan Muniz",
+		"position": "Software engineer, Programmer",
+		"email": "hi@renanmuniz.com",
+		"social": {
+			"website": "https://renanmuniz.com",
+			"linkedin": "https://www.linkedin.com/in/renan-muniz/"
+		}
+	},
+	"experience": [
+		{
+			"company": "Printástico",
+			"website": "https://www.printastico.com.br",
+			"position": "Software engineer",
+			"interval": "2014 - current",
+			"description": "Building online applications with javascript, desktop softwares, react user interfaces, nodeJS systems and AWS/Shell Script/PHP Maintenance, through the SCRUM agile methodology and continuous integration."
+		},
+		{
+			"company": "Sioux",
+			"website": "https://www.sioux.com.br",
+			"position": "Game developer",
+			"interval": "2012 - 2014",
+			"description": "Developed mobile apps, advergames and social games that enable faster and direct connection to the consumer, generating consistency and a quality result."
+		},
+		{
+			"company": "Pukis",
+			"website": "https://web.archive.org/web/20120212141651/http://www.pukis.com.br:80/",
+			"position": "Mobile developer",
+			"interval": "2011 - 2012",
+			"description": "Experience creating branding growth apps using mobile as a media, by empowering user’s experience, understanding the meaning of an individualistic approach of each project."
+		}
+	],
+	"education": [
+		{
+			"school": "FIT - Impacta University of technology",
+			"department": "Information systems."
+		}
+	],
+	"skill":[
+		{
+			"type": "Web",
+			"level": "10 years of web development experience, from portals and institutional sites to games and social marketing apps, in charge of cloud AWS (EC2 and RDS) management, I've worked with multiple tools and languages like: nodeJS (javascript), react, postgreSQL, angular, electron, mongodb, JQuery, wordpress and Laravel (PHP)."
+		},
+		{
+			"type": "Game",
+			"level": "Digital experience in advergames, educational apps with game-based learning (GBL), social games to promote brands and products like Ubisoft and Fanta in addition to paid and freemium publishments."
+		},
+		{
+			"type": "Mobile",
+			"level": "Android and IOS (iPhone, iPad) development experience since 2012, supporting multiple devices and resolutions, focused on performance and user immersion experience."
+		},
+		{
+			"type": "Software",
+			"level": "I have worked on serveral in-house softwares and scripts to deal with daily demand, boost and organize flows using electron, unix shellscript, nodeJS and PHP."
+		}
+	],
+	"language": [
+		{
+			"idiom": "English",
+			"level": "Advanced"
+		},
+		{
+			"idiom": "Portuguese",
+			"level": "Native"
+		},
+		{
+			"idiom": "Spanish",
+			"level": "Average"
+		}
+	],
+	"hobby": ["Longboard", "Hack", "Read"]
+}
+
