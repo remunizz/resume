@@ -9,13 +9,28 @@
     "react-dom": "^15.6.1"
   },
   "devDependencies": {
+    "husky": "^0.14.3",
+    "lint-staged": "^4.3.0",
+    "prettier": "1.7.4",
     "react-scripts": "1.0.13"
   },
   "scripts": {
     "start": "react-scripts start",
     "pdf": "react-scripts build && node pdf.js",
+    "format": "prettier --write './**/!(registerServiceWorker).js'",
+    "precommit": "lint-staged",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  },
+  "lint-staged": {
+    "*.js": [
+      "prettier --write",
+      "git add"
+    ]
   }
 }

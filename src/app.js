@@ -7,13 +7,15 @@ import './app.css'
 
 const data = resumeData
 
-const component = () => (<div className="app">
-	<Column>
-		<Profile {...data.profile} />
-	</Column>
-	<Column>
-		<Journey data={data} />
-	</Column>
-</div>)
+const component = () => (
+  <div className="app">
+    <Column>
+      <Profile {...data.profile} />
+    </Column>
+    <Column>
+      <Journey data={data} />
+    </Column>
+  </div>
+)
 
 export default component
